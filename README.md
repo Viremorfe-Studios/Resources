@@ -9,7 +9,7 @@ Art & Audio resources created by Viremorfe and the community that you can use fo
 # Demos
 
 ## Happy Three Cats (Blockbench)
-
+<img width="1241" height="671" alt="happy_three_cats" src="https://github.com/user-attachments/assets/97d85779-c0c0-45ed-9cda-1a175c19fcd2" />
 
 ## Little Truck (Blockbench)
-
+<img width="1156" height="661" alt="little_truck" src="https://github.com/user-attachments/assets/a26e6dd9-8262-4d3f-bdfe-5b4326dc84ad" />
